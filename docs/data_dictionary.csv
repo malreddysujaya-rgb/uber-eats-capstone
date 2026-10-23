@@ -1,0 +1,39 @@
+Dataset,Column,Data Type,Description,Example,Key / Relationship
+customers.csv,customer_id,int64,Unique identifier for each customer,1,Primary key
+customers.csv,age,int64,Customer age in years,22,Neither
+customers.csv,city,str,City where the customer is located,Hyderabad,Neither
+customers.csv,signup_date,str,Date when the customer registered,2025-06-04,Neither
+restaurants.csv,restaurant_id,int64,Unique restaurant identifier,1,Primary key
+restaurants.csv,restaurant_name,str,Name assigned to the restaurant,Restaurant_1,Neither
+restaurants.csv,category,str,Type of cuisine served,Italian,Neither
+restaurants.csv,city,str,City where the restaurant operates,Bengaluru,Neither
+restaurants.csv,restaurant_rating,float64,Restaurant rating on a 2.5 to 5 scale,2.5,Neither
+orders.csv,order_id,int64,Unique identifier for each order,1,Primary key
+orders.csv,customer_id,int64,Customer who placed the order,145,Foreign key
+orders.csv,restaurant_id,int64,Restaurant receiving the order,32,Foreign key
+orders.csv,order_timestamp,str,Date and time the order was placed,2026-02-11 18:07:00,Neither
+orders.csv,order_amount,float64,Value of the ordered food before tip,148.95,Neither
+orders.csv,number_of_items,int64,Number of items in the order,8,Neither
+orders.csv,order_status,str,Current or simulated order status,Completed,Neither
+deliveries.csv,delivery_id,int64,Unique delivery record identifier,1,Primary key
+deliveries.csv,order_id,int64,Order associated with the delivery,1,Foreign key
+deliveries.csv,driver_id,int64,Driver assigned to the delivery,94,Foreign key
+deliveries.csv,delivery_distance_km,float64,Delivery distance in kilometers,5.96,Neither
+deliveries.csv,preparation_time_minutes,int64,Restaurant preparation time in minutes,18,Neither
+deliveries.csv,delivery_time_minutes,float64,Simulated delivery time in minutes,32.4,Neither
+deliveries.csv,weather,str,Weather condition during the simulated delivery,Clear,Neither
+deliveries.csv,traffic_condition,str,Traffic level during the simulated delivery,Medium,Neither
+drivers.csv,driver_id,int64,Unique identifier for each driver,1,Primary key
+drivers.csv,experience_years,int64,Driver experience in years,4,Neither
+drivers.csv,vehicle_type,str,Vehicle used by the driver,Bike,Neither
+reviews.csv,review_id,int64,Unique review identifier,1,Primary key
+reviews.csv,order_id,int64,Order being reviewed,311,Foreign key
+reviews.csv,customer_id,int64,Customer who wrote the review,270,Foreign key
+reviews.csv,restaurant_id,int64,Restaurant being reviewed,48,Foreign key
+reviews.csv,review_text,str,Synthetic customer feedback text,Fresh food and friendly service,Neither
+reviews.csv,sentiment_label,str,Synthetic sentiment label assigned to the review,Positive,Neither
+payments.csv,payment_id,int64,Unique payment record identifier,1,Primary key
+payments.csv,order_id,int64,Order associated with the payment,1,Foreign key
+payments.csv,payment_method,str,Method used for payment,Cash,Neither
+payments.csv,tip_amount,float64,Simulated delivery tip amount,74.25,Neither
+payments.csv,total_amount,float64,Order amount plus tip,223.2,Neither
