@@ -1,0 +1,5 @@
+entity,algorithm,clusters,noise_points
+Customer,KMeans,3,0
+Customer,DBSCAN,1,92
+Restaurant,KMeans,3,0
+Restaurant,DBSCAN,1,15

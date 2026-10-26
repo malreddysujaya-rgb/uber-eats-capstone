@@ -1,0 +1,4 @@
+restaurant_cluster,restaurant_count,avg_orders,avg_revenue,avg_preparation_time,avg_delivery_time,avg_cancellation_rate,avg_rating
+0,25,91.6,56305.16,24.75,54.07,0.08,3.85
+1,17,76.82,46555.92,26.27,55.63,0.07,3.76
+2,18,78.0,44080.53,23.64,52.24,0.09,3.81

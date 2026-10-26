@@ -1,0 +1,4 @@
+customer_cluster,customers,avg_total_orders,avg_order_value,avg_total_spending,avg_weekend_orders,avg_late_night_orders,avg_sentiment_proxy
+0,259,6.39,700.79,4462.77,1.77,1.78,3.59
+1,163,11.15,759.67,8432.26,3.64,3.64,3.72
+2,78,8.28,719.7,5925.82,2.56,2.33,3.36
