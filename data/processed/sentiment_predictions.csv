@@ -1,0 +1,751 @@
+review_text,actual_sentiment,naive_bayes_prediction,vader_prediction
+fresh food and friendly service,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+great food and fast delivery,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+service was acceptable,Neutral,Neutral,Positive
+excellent service and tasty food,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+excellent service and tasty food,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+delivery was very slow,Negative,Negative,Neutral
+service was acceptable,Neutral,Neutral,Positive
+average delivery experience,Neutral,Neutral,Neutral
+great food and fast delivery,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+very good experience,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+the order arrived on time,Positive,Positive,Neutral
+poor packaging and bad service,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+the order was as expected,Neutral,Neutral,Neutral
+great food and fast delivery,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+very good experience,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+service was acceptable,Neutral,Neutral,Positive
+nothing special about the order,Neutral,Neutral,Negative
+poor packaging and bad service,Negative,Negative,Negative
+very disappointing experience,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+delivery was very slow,Negative,Negative,Neutral
+nothing special about the order,Neutral,Neutral,Negative
+the order arrived on time,Positive,Positive,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+fresh food and friendly service,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+order was missing items,Negative,Negative,Negative
+very good experience,Positive,Positive,Positive
+nothing special about the order,Neutral,Neutral,Negative
+excellent service and tasty food,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+the order arrived on time,Positive,Positive,Neutral
+great food and fast delivery,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+the food was okay,Neutral,Neutral,Positive
+poor packaging and bad service,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+average delivery experience,Neutral,Neutral,Neutral
+the order arrived on time,Positive,Positive,Neutral
+order was missing items,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+nothing special about the order,Neutral,Neutral,Negative
+excellent service and tasty food,Positive,Positive,Positive
+service was acceptable,Neutral,Neutral,Positive
+fresh food and friendly service,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+the order was as expected,Neutral,Neutral,Neutral
+the order arrived on time,Positive,Positive,Neutral
+very disappointing experience,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+very disappointing experience,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+order was missing items,Negative,Negative,Negative
+excellent service and tasty food,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+nothing special about the order,Neutral,Neutral,Negative
+very good experience,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+order was missing items,Negative,Negative,Negative
+the order was as expected,Neutral,Neutral,Neutral
+the order arrived on time,Positive,Positive,Neutral
+the order arrived on time,Positive,Positive,Neutral
+order was missing items,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+average delivery experience,Neutral,Neutral,Neutral
+very good experience,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+great food and fast delivery,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+nothing special about the order,Neutral,Neutral,Negative
+excellent service and tasty food,Positive,Positive,Positive
+nothing special about the order,Neutral,Neutral,Negative
+very good experience,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+the order was as expected,Neutral,Neutral,Neutral
+great food and fast delivery,Positive,Positive,Positive
+the order was as expected,Neutral,Neutral,Neutral
+very good experience,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+excellent service and tasty food,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+order was missing items,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+food arrived cold and late,Negative,Negative,Neutral
+poor packaging and bad service,Negative,Negative,Negative
+nothing special about the order,Neutral,Neutral,Negative
+the order was as expected,Neutral,Neutral,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+nothing special about the order,Neutral,Neutral,Negative
+very good experience,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+the order was as expected,Neutral,Neutral,Neutral
+very good experience,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+average delivery experience,Neutral,Neutral,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+service was acceptable,Neutral,Neutral,Positive
+delivery was very slow,Negative,Negative,Neutral
+delivery was very slow,Negative,Negative,Neutral
+very good experience,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+very disappointing experience,Negative,Negative,Negative
+very good experience,Positive,Positive,Positive
+the order was as expected,Neutral,Neutral,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+great food and fast delivery,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+the order was as expected,Neutral,Neutral,Neutral
+delivery was very slow,Negative,Negative,Neutral
+the order arrived on time,Positive,Positive,Neutral
+poor packaging and bad service,Negative,Negative,Negative
+delivery was very slow,Negative,Negative,Neutral
+the order was as expected,Neutral,Neutral,Neutral
+very disappointing experience,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+the order was as expected,Neutral,Neutral,Neutral
+food arrived cold and late,Negative,Negative,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+great food and fast delivery,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+very good experience,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+the order arrived on time,Positive,Positive,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+great food and fast delivery,Positive,Positive,Positive
+service was acceptable,Neutral,Neutral,Positive
+order was missing items,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+nothing special about the order,Neutral,Neutral,Negative
+excellent service and tasty food,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+nothing special about the order,Neutral,Neutral,Negative
+great food and fast delivery,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+great food and fast delivery,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+the order was as expected,Neutral,Neutral,Neutral
+food arrived cold and late,Negative,Negative,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+nothing special about the order,Neutral,Neutral,Negative
+order was missing items,Negative,Negative,Negative
+delivery was very slow,Negative,Negative,Neutral
+nothing special about the order,Neutral,Neutral,Negative
+poor packaging and bad service,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+very good experience,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+service was acceptable,Neutral,Neutral,Positive
+service was acceptable,Neutral,Neutral,Positive
+food arrived cold and late,Negative,Negative,Neutral
+the order arrived on time,Positive,Positive,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+the order was as expected,Neutral,Neutral,Neutral
+the order arrived on time,Positive,Positive,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+the order was as expected,Neutral,Neutral,Neutral
+service was acceptable,Neutral,Neutral,Positive
+very disappointing experience,Negative,Negative,Negative
+excellent service and tasty food,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+order was missing items,Negative,Negative,Negative
+the food was okay,Neutral,Neutral,Positive
+fresh food and friendly service,Positive,Positive,Positive
+service was acceptable,Neutral,Neutral,Positive
+excellent service and tasty food,Positive,Positive,Positive
+the order was as expected,Neutral,Neutral,Neutral
+poor packaging and bad service,Negative,Negative,Negative
+very good experience,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+very good experience,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+food arrived cold and late,Negative,Negative,Neutral
+average delivery experience,Neutral,Neutral,Neutral
+the order was as expected,Neutral,Neutral,Neutral
+the food was okay,Neutral,Neutral,Positive
+very good experience,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+delivery was very slow,Negative,Negative,Neutral
+delivery was very slow,Negative,Negative,Neutral
+the food was okay,Neutral,Neutral,Positive
+very good experience,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+the order was as expected,Neutral,Neutral,Neutral
+delivery was very slow,Negative,Negative,Neutral
+delivery was very slow,Negative,Negative,Neutral
+the food was okay,Neutral,Neutral,Positive
+poor packaging and bad service,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+very good experience,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+nothing special about the order,Neutral,Neutral,Negative
+very good experience,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+very good experience,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+order was missing items,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+order was missing items,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+service was acceptable,Neutral,Neutral,Positive
+fresh food and friendly service,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+nothing special about the order,Neutral,Neutral,Negative
+the order arrived on time,Positive,Positive,Neutral
+nothing special about the order,Neutral,Neutral,Negative
+the order arrived on time,Positive,Positive,Neutral
+order was missing items,Negative,Negative,Negative
+very good experience,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+great food and fast delivery,Positive,Positive,Positive
+average delivery experience,Neutral,Neutral,Neutral
+the order was as expected,Neutral,Neutral,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+the order was as expected,Neutral,Neutral,Neutral
+the order arrived on time,Positive,Positive,Neutral
+order was missing items,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+very disappointing experience,Negative,Negative,Negative
+the food was okay,Neutral,Neutral,Positive
+service was acceptable,Neutral,Neutral,Positive
+very good experience,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+service was acceptable,Neutral,Neutral,Positive
+very good experience,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+great food and fast delivery,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+food arrived cold and late,Negative,Negative,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+nothing special about the order,Neutral,Neutral,Negative
+great food and fast delivery,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+the order was as expected,Neutral,Neutral,Neutral
+order was missing items,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+very disappointing experience,Negative,Negative,Negative
+the order was as expected,Neutral,Neutral,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+very disappointing experience,Negative,Negative,Negative
+very good experience,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+great food and fast delivery,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+delivery was very slow,Negative,Negative,Neutral
+poor packaging and bad service,Negative,Negative,Negative
+nothing special about the order,Neutral,Neutral,Negative
+the food was okay,Neutral,Neutral,Positive
+fresh food and friendly service,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+very good experience,Positive,Positive,Positive
+service was acceptable,Neutral,Neutral,Positive
+the food was okay,Neutral,Neutral,Positive
+excellent service and tasty food,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+poor packaging and bad service,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+very good experience,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+the order was as expected,Neutral,Neutral,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+average delivery experience,Neutral,Neutral,Neutral
+average delivery experience,Neutral,Neutral,Neutral
+average delivery experience,Neutral,Neutral,Neutral
+service was acceptable,Neutral,Neutral,Positive
+great food and fast delivery,Positive,Positive,Positive
+average delivery experience,Neutral,Neutral,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+food arrived cold and late,Negative,Negative,Neutral
+average delivery experience,Neutral,Neutral,Neutral
+order was missing items,Negative,Negative,Negative
+nothing special about the order,Neutral,Neutral,Negative
+very good experience,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+nothing special about the order,Neutral,Neutral,Negative
+order was missing items,Negative,Negative,Negative
+nothing special about the order,Neutral,Neutral,Negative
+order was missing items,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+order was missing items,Negative,Negative,Negative
+very good experience,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+delivery was very slow,Negative,Negative,Neutral
+very good experience,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+the order arrived on time,Positive,Positive,Neutral
+the order was as expected,Neutral,Neutral,Neutral
+great food and fast delivery,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+very good experience,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+the food was okay,Neutral,Neutral,Positive
+the order arrived on time,Positive,Positive,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+service was acceptable,Neutral,Neutral,Positive
+very good experience,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+excellent service and tasty food,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+average delivery experience,Neutral,Neutral,Neutral
+the food was okay,Neutral,Neutral,Positive
+nothing special about the order,Neutral,Neutral,Negative
+poor packaging and bad service,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+average delivery experience,Neutral,Neutral,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+nothing special about the order,Neutral,Neutral,Negative
+nothing special about the order,Neutral,Neutral,Negative
+excellent service and tasty food,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+the food was okay,Neutral,Neutral,Positive
+the order was as expected,Neutral,Neutral,Neutral
+great food and fast delivery,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+the food was okay,Neutral,Neutral,Positive
+poor packaging and bad service,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+average delivery experience,Neutral,Neutral,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+very good experience,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+order was missing items,Negative,Negative,Negative
+poor packaging and bad service,Negative,Negative,Negative
+very good experience,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+the food was okay,Neutral,Neutral,Positive
+fresh food and friendly service,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+great food and fast delivery,Positive,Positive,Positive
+the order was as expected,Neutral,Neutral,Neutral
+poor packaging and bad service,Negative,Negative,Negative
+poor packaging and bad service,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+average delivery experience,Neutral,Neutral,Neutral
+the order was as expected,Neutral,Neutral,Neutral
+the order arrived on time,Positive,Positive,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+service was acceptable,Neutral,Neutral,Positive
+excellent service and tasty food,Positive,Positive,Positive
+service was acceptable,Neutral,Neutral,Positive
+excellent service and tasty food,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+very good experience,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+food arrived cold and late,Negative,Negative,Neutral
+food arrived cold and late,Negative,Negative,Neutral
+service was acceptable,Neutral,Neutral,Positive
+fresh food and friendly service,Positive,Positive,Positive
+the order was as expected,Neutral,Neutral,Neutral
+order was missing items,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+the order was as expected,Neutral,Neutral,Neutral
+very good experience,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+very disappointing experience,Negative,Negative,Negative
+poor packaging and bad service,Negative,Negative,Negative
+very good experience,Positive,Positive,Positive
+the order was as expected,Neutral,Neutral,Neutral
+great food and fast delivery,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+nothing special about the order,Neutral,Neutral,Negative
+poor packaging and bad service,Negative,Negative,Negative
+order was missing items,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+great food and fast delivery,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+service was acceptable,Neutral,Neutral,Positive
+delivery was very slow,Negative,Negative,Neutral
+very good experience,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+the order arrived on time,Positive,Positive,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+nothing special about the order,Neutral,Neutral,Negative
+great food and fast delivery,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+poor packaging and bad service,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+great food and fast delivery,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+food arrived cold and late,Negative,Negative,Neutral
+great food and fast delivery,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+poor packaging and bad service,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+service was acceptable,Neutral,Neutral,Positive
+order was missing items,Negative,Negative,Negative
+poor packaging and bad service,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+food arrived cold and late,Negative,Negative,Neutral
+nothing special about the order,Neutral,Neutral,Negative
+excellent service and tasty food,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+excellent service and tasty food,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+excellent service and tasty food,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+very good experience,Positive,Positive,Positive
+service was acceptable,Neutral,Neutral,Positive
+nothing special about the order,Neutral,Neutral,Negative
+food arrived cold and late,Negative,Negative,Neutral
+great food and fast delivery,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+the order arrived on time,Positive,Positive,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+average delivery experience,Neutral,Neutral,Neutral
+the order was as expected,Neutral,Neutral,Neutral
+great food and fast delivery,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+nothing special about the order,Neutral,Neutral,Negative
+very good experience,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+poor packaging and bad service,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+excellent service and tasty food,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+delivery was very slow,Negative,Negative,Neutral
+the order arrived on time,Positive,Positive,Neutral
+very disappointing experience,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+average delivery experience,Neutral,Neutral,Neutral
+nothing special about the order,Neutral,Neutral,Negative
+very disappointing experience,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+poor packaging and bad service,Negative,Negative,Negative
+excellent service and tasty food,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+fresh food and friendly service,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+great food and fast delivery,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+the food was okay,Neutral,Neutral,Positive
+very good experience,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+nothing special about the order,Neutral,Neutral,Negative
+the order arrived on time,Positive,Positive,Neutral
+service was acceptable,Neutral,Neutral,Positive
+food arrived cold and late,Negative,Negative,Neutral
+great food and fast delivery,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+great food and fast delivery,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+very good experience,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+very good experience,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+great food and fast delivery,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+excellent service and tasty food,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+very disappointing experience,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+poor packaging and bad service,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+service was acceptable,Neutral,Neutral,Positive
+order was missing items,Negative,Negative,Negative
+order was missing items,Negative,Negative,Negative
+average delivery experience,Neutral,Neutral,Neutral
+the food was okay,Neutral,Neutral,Positive
+great food and fast delivery,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+great food and fast delivery,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+delivery was very slow,Negative,Negative,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+poor packaging and bad service,Negative,Negative,Negative
+delivery was very slow,Negative,Negative,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+excellent service and tasty food,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+average delivery experience,Neutral,Neutral,Neutral
+great food and fast delivery,Positive,Positive,Positive
+very disappointing experience,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+order was missing items,Negative,Negative,Negative
+great food and fast delivery,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+average delivery experience,Neutral,Neutral,Neutral
+fresh food and friendly service,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+average delivery experience,Neutral,Neutral,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+the order arrived on time,Positive,Positive,Neutral
+very good experience,Positive,Positive,Positive
+delivery was very slow,Negative,Negative,Neutral
+excellent service and tasty food,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+order was missing items,Negative,Negative,Negative
+order was missing items,Negative,Negative,Negative
+the order arrived on time,Positive,Positive,Neutral
+food arrived cold and late,Negative,Negative,Neutral
+food arrived cold and late,Negative,Negative,Neutral
+very good experience,Positive,Positive,Positive
+fresh food and friendly service,Positive,Positive,Positive
+great food and fast delivery,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+the order arrived on time,Positive,Positive,Neutral
+the food was okay,Neutral,Neutral,Positive
+the order arrived on time,Positive,Positive,Neutral
+service was acceptable,Neutral,Neutral,Positive
+very disappointing experience,Negative,Negative,Negative
+the order was as expected,Neutral,Neutral,Neutral
+very disappointing experience,Negative,Negative,Negative
+average delivery experience,Neutral,Neutral,Neutral
+great food and fast delivery,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+very good experience,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+great food and fast delivery,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+the food was okay,Neutral,Neutral,Positive
+excellent service and tasty food,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+very good experience,Positive,Positive,Positive
+order was missing items,Negative,Negative,Negative
+fresh food and friendly service,Positive,Positive,Positive
+excellent service and tasty food,Positive,Positive,Positive
+food arrived cold and late,Negative,Negative,Neutral
+the order arrived on time,Positive,Positive,Neutral
+great food and fast delivery,Positive,Positive,Positive
+average delivery experience,Neutral,Neutral,Neutral
+the order arrived on time,Positive,Positive,Neutral
+very disappointing experience,Negative,Negative,Negative
+food arrived cold and late,Negative,Negative,Neutral
+the order was as expected,Neutral,Neutral,Neutral
