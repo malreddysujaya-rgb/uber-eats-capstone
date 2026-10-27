@@ -1,0 +1,2 @@
+Selected_Model,Selection_Criterion,MAE_Minutes,RMSE_Minutes,R2,Training_Rows,Testing_Rows
+Lasso Regression,Lowest test MAE,4.121310188315505,5.189734611746049,0.8723145675531592,4000,1000
