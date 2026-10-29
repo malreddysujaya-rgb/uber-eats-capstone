@@ -1,0 +1,10 @@
+Analysis,Model,Primary Metric,Metric Value,Additional Metric,Additional Value
+Sentiment,TF-IDF + Naive Bayes,Weighted F1-score,1.0,Accuracy,1.0
+Sentiment,VADER,Weighted F1-score,0.7008989493795394,Accuracy,0.6866666666666666
+Delivery-Time Regression,Lasso Regression,MAE (minutes),4.121310188315505,R²,0.8723145675531592
+Delivery-Time Regression,Ridge Regression,MAE (minutes),4.121637044787616,R²,0.8720663016411436
+Delivery-Time Regression,Random Forest,MAE (minutes),4.446897974693362,R²,0.8547285302478708
+Delivery-Time Regression,Baseline,MAE (minutes),11.7784786,R²,-0.0001510523523375884
+Demand Forecasting,Prophet,MAE (orders/hour),1.1796230696205017,RMSE,1.4825943403918433
+Demand Forecasting,ARIMA,MAE (orders/hour),1.186247737372102,RMSE,1.4755227591149727
+Demand Forecasting,Hourly Baseline,MAE (orders/hour),1.200102880658436,RMSE,1.5035056343049837

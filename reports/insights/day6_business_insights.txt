@@ -1,0 +1,9 @@
+DAY 6 — BUSINESS INSIGHTS
+
+1. The dataset contains 5,000 unique orders, including 4,120 completed and 407 cancelled orders.
+2. The observed cancellation rate is 8.14%. Review cancellation reasons and order-status patterns before proposing operational changes.
+3. The average positive recorded delivery time is 53.68 minutes. Investigate long deliveries alongside distance, preparation time, traffic, and weather.
+4. The most frequent generated review sentiment is Positive (2076 reviews, 55.36%).
+5. The lowest-MAE delivery-time model in the saved comparison is Lasso Regression (MAE: 4.12 minutes).
+6. The lowest-MAE demand forecasting model in the saved comparison is Prophet (MAE: 1.18 orders per hour).
+7. Before real-world use, validate these patterns with genuine operational data and monitor model performance over time.

@@ -1,0 +1,6 @@
+Workstream,Report Available,Report Path
+Customer Cluster Profiles,True,reports/insights/customer_cluster_profiles.csv
+Restaurant Cluster Profiles,True,reports/insights/restaurant_cluster_profiles.csv
+Sentiment Evaluation,True,reports/insights/sentiment_evaluation_metrics.csv
+Regression Comparison,True,reports/insights/regression_model_comparison.csv
+Forecast Comparison,True,reports/insights/forecast_model_comparison.csv
